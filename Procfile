@@ -1,1 +1,1 @@
-web: gunicorn main.get_time
+web: gunicorn main:get_time
